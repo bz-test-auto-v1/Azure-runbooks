@@ -4,8 +4,6 @@ param
     [String] $Name = "Monkey"
 )
 
-### stuff
-### more stuff
-### yet more stuff
+### deleted stuff
 
 "Hello $Name!"
